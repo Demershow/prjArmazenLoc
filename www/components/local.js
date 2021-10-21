@@ -27,3 +27,6 @@ function limparcampos(){
   $("#nomeBusca").val("");
   $("#identificador").val("");
 }
+function cara(){
+  
+}
